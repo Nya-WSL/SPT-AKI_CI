@@ -22,7 +22,7 @@ Param(
 )
 
 $ErrorActionPreference = "Stop"
-$SOURCE_REPO = "https://github.com/sp-tarkov/server-csharp.git"
+$SOURCE_REPO = "https://gitclone.com/github.com/sp-tarkov/server-csharp.git"
 $SERVER_DIR = "./server-csharp"
 
 $BuildOnCommit = $Commit.Length -gt 0

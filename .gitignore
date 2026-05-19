@@ -7,3 +7,4 @@ server-csharp/
 .idea
 *.zip
 *.tar.gz
+/SPT-Launcher
